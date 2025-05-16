@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/django-auth-system.git
+git clone https://github.com/fazilikram/User-Authentication.git
 cd folder name
 Create a virtual environment and install dependencies:
 
